@@ -1,13 +1,6 @@
 <item>
 <title>[COLOR silver]Avenger Infinity War[/COLOR] - [COLOR yellow][/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/1_ldXyQRR-trLIXChA4fOyyd9Yizyf31K/view?usp=sharing</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR silver]Avenger Age of Ultron[/COLOR] - [COLOR yellow][/COLOR]</title>
-<urlsolve>https://drive.google.com/file/d/1Ffk0V1llje547SLfel7Ez_P5M4_1cH95/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1mPrKmfKaQqOyKdvAaGJCJssSzC-2oNL0/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
