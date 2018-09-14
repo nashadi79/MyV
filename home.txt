@@ -104,10 +104,34 @@
 <channels>
 
 <channel>
-<name>Superhero Movies</name>
+<name>[COLOR lime][B]Superhero Movies[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/01_superheroes.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR green][B]Action Movie[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR yellow][B]Malay Movie[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR purple][B]P Ramlee Movie[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
 <info></info>
 </channel>
 

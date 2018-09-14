@@ -33,3 +33,31 @@
 <fanart>https://s19.postimg.cc/cd87fdyk3/captainamerica_civilwar_fanart.jpg</fanart>
 </item>
 
+<item>
+<title>Captain America The First Avenger</title>
+<urlsolve>https://drive.google.com/file/d/1hqKJjmywKq0TIRGbL89KTwhkHooCN4IN/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.cc/gsv7y9q0j/capamerica_1stavenger_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/suqlsfeoj/capamerica_1stavenger_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Captain America The Winter Soldier</title>
+<urlsolve>https://drive.google.com/file/d/1deI3OMpsVbhWbQRnWsSsozgtF9QLG0to/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.cc/u9s6h5nhf/capamerica_wintersoldier_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/u9s6h581v/capamerica_wintersoldier_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Ant-Man</title>
+<urlsolve>https://drive.google.com/file/d/1N2qdNDf7r8WcqAm3PrH-ydTAgz5i_-FC/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.cc/arxj16voj/ant_man_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/vc2czo3pv/ant_man_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>The Avengers</title>
+<urlsolve>https://drive.google.com/file/d/1ZOkrDZa-L_tu6zxbgOGRgqoi50BihP73/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.cc/umjkncdgz/The-_Avengers_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/dys2kuy4z/The-_Avengers_fanart.jpg</fanart>
+</item>
+
