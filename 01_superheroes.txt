@@ -19,3 +19,17 @@
 <fanart>https://s19.postimg.cc/70jd19ann/Thor-_Ragnarok-fanart.jpg</fanart>
 </item>
 
+<item>
+<title>Avengers Age of Ultron</title>
+<urlsolve>https://drive.google.com/file/d/1nAApsMfg9t6-wlkAST1sTu9DuJSa5lln/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.cc/v5k2izi3n/Avengers_Ageo_Ultron_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/47q5h8i0z/Avengers_Ageo_Ultron_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Captain America Civil War</title>
+<urlsolve>https://drive.google.com/file/d/1eQPFnckwJ0lSW0wk_5If0M9IiXVdGYCI/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.cc/qjnyam1pf/captainamerica_civilwar_thumb.png</thumbnail>
+<fanart>https://s19.postimg.cc/cd87fdyk3/captainamerica_civilwar_fanart.jpg</fanart>
+</item>
+
