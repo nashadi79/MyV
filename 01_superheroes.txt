@@ -1,5 +1,5 @@
 <item>
-<title>Avenger Infinity War</title>
+<title>Avengers Infinity War</title>
 <urlsolve>https://drive.google.com/file/d/1mPrKmfKaQqOyKdvAaGJCJssSzC-2oNL0/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
