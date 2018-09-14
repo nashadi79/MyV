@@ -1,14 +1,21 @@
 <item>
 <title>Avengers Infinity War</title>
 <urlsolve>https://drive.google.com/file/d/1mPrKmfKaQqOyKdvAaGJCJssSzC-2oNL0/view?usp=sharing</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://s19.postimg.cc/copns5ufn/Avengers_Infinity_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/l6z3wh637/Avengers_Infinity_fanart.jpg</fanart>
 </item>
 
 <item>
 <title>Doctor Strange</title>
 <urlsolve>https://drive.google.com/file/d/1aykBljpsImcLbilyg3kT9L-hL1CDFMf5/view?usp=sharing</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://s19.postimg.cc/4vz0061b7/Dr_Strange_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/mys2rdhqb/Dr_Strange_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Thor Ragnarok</title>
+<urlsolve>https://drive.google.com/file/d/1W1d67jOtuCbtV_oqL3_snYkLKrqUa0xV/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.cc/sa6zc3yo3/Thor_Ragnarok_thumb.png</thumbnail>
+<fanart>https://s19.postimg.cc/70jd19ann/Thor-_Ragnarok-fanart.jpg</fanart>
 </item>
 
