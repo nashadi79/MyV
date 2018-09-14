@@ -61,3 +61,24 @@
 <fanart>https://s19.postimg.cc/dys2kuy4z/The-_Avengers_fanart.jpg</fanart>
 </item>
 
+<item>
+<title>Black Panther</title>
+<urlsolve>https://drive.google.com/file/d/18j7DeQiPYuqD9jPHKuIIL-qrYrjuHr_t/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.cc/iko6te6v7/blackpanther_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/5gimgpmj7/blackpanther_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Thor</title>
+<urlsolve>https://drive.google.com/file/d/1U2MgLDMfEdKn6zV8xJmdOG6jragZMqjN/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.cc/wfmhbpw3n/Thor_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/9qxac5u5f/thor_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Thor The Dark World</title>
+<urlsolve>https://drive.google.com/file/d/1ZeLRgVKcuRWmvAkvHnNUmZb1M8M1lmC9/view?usp=sharing</urlsolve>
+<thumbnail>https://s19.postimg.cc/kdr3hkukz/Thor-_The_Dark_World_thumb.jpg</thumbnail>
+<fanart>https://s19.postimg.cc/pcelw3iyb/Thor-_The_Dark_World_fanart.jpg</fanart>
+</item>
+
