@@ -1,11 +1,4 @@
 <item>
-<title>Avengers Infinity War</title>
-<urlsolve>https://drive.google.com/file/d/1mPrKmfKaQqOyKdvAaGJCJssSzC-2oNL0/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.cc/copns5ufn/Avengers_Infinity_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.cc/l6z3wh637/Avengers_Infinity_fanart.jpg</fanart>
-</item>
-
-<item>
 <title>Doctor Strange</title>
 <urlsolve>https://drive.google.com/file/d/1aykBljpsImcLbilyg3kT9L-hL1CDFMf5/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.cc/4vz0061b7/Dr_Strange_thumb.jpg</thumbnail>
@@ -17,13 +10,6 @@
 <urlsolve>https://drive.google.com/file/d/1W1d67jOtuCbtV_oqL3_snYkLKrqUa0xV/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.cc/sa6zc3yo3/Thor_Ragnarok_thumb.png</thumbnail>
 <fanart>https://s19.postimg.cc/70jd19ann/Thor-_Ragnarok-fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Avengers Age of Ultron</title>
-<urlsolve>https://drive.google.com/file/d/1nAApsMfg9t6-wlkAST1sTu9DuJSa5lln/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.cc/v5k2izi3n/Avengers_Ageo_Ultron_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.cc/47q5h8i0z/Avengers_Ageo_Ultron_fanart.jpg</fanart>
 </item>
 
 <item>
@@ -41,13 +27,6 @@
 </item>
 
 <item>
-<title>Captain America The Winter Soldier</title>
-<urlsolve>https://drive.google.com/file/d/1deI3OMpsVbhWbQRnWsSsozgtF9QLG0to/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.cc/u9s6h5nhf/capamerica_wintersoldier_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.cc/u9s6h581v/capamerica_wintersoldier_fanart.jpg</fanart>
-</item>
-
-<item>
 <title>Ant-Man</title>
 <urlsolve>https://drive.google.com/file/d/1N2qdNDf7r8WcqAm3PrH-ydTAgz5i_-FC/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.cc/arxj16voj/ant_man_thumb.jpg</thumbnail>
@@ -62,23 +41,9 @@
 </item>
 
 <item>
-<title>Black Panther</title>
-<urlsolve>https://drive.google.com/file/d/18j7DeQiPYuqD9jPHKuIIL-qrYrjuHr_t/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.cc/iko6te6v7/blackpanther_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.cc/5gimgpmj7/blackpanther_fanart.jpg</fanart>
-</item>
-
-<item>
 <title>Thor</title>
 <urlsolve>https://drive.google.com/file/d/1U2MgLDMfEdKn6zV8xJmdOG6jragZMqjN/view?usp=sharing</urlsolve>
 <thumbnail>https://s19.postimg.cc/wfmhbpw3n/Thor_thumb.jpg</thumbnail>
 <fanart>https://s19.postimg.cc/9qxac5u5f/thor_fanart.jpg</fanart>
-</item>
-
-<item>
-<title>Thor The Dark World</title>
-<urlsolve>https://drive.google.com/file/d/1ZeLRgVKcuRWmvAkvHnNUmZb1M8M1lmC9/view?usp=sharing</urlsolve>
-<thumbnail>https://s19.postimg.cc/kdr3hkukz/Thor-_The_Dark_World_thumb.jpg</thumbnail>
-<fanart>https://s19.postimg.cc/pcelw3iyb/Thor-_The_Dark_World_fanart.jpg</fanart>
 </item>
 
