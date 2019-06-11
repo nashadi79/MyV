@@ -1,0 +1,98 @@
+<item>
+<title>Sepahtu Puasa (2019) Episod 3</title>
+<urlsolve>https://drive.google.com/file/d/1XuEZe3yXTZiIahLQhDTEOSwKB2NOgq3N/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu Puasa (2019) Episod 2</title>
+<urlsolve>https://drive.google.com/file/d/1kq9kv5VaS4QyBdWimt1vInvD6Z5i5Nq_/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu Puasa (2019) Episod 1</title>
+<urlsolve>https://drive.google.com/file/d/1KPIuWj0S5_1WCgiKPZ3t4mMadMumzWfo/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 15</title>
+<urlsolve>https://drive.google.com/file/d/1EvZ3_29WTxOGl3T0GuHWaQUPW53YJmCE/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 11</title>
+<urlsolve>https://drive.google.com/file/d/18mgGnVF7ix5UdcO5QuU6V9HOOka0jKx4/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 10</title>
+<urlsolve>https://drive.google.com/file/d/1Nx49arwbhyXGymBhy2A8zIjnEo94FimP/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 9</title>
+<urlsolve>https://drive.google.com/file/d/1eREDnQ8ceoeW37DSOkrmbw078JOupIBF/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 8</title>
+<urlsolve>https://drive.google.com/file/d/1lRwTUQ0scRRd6qMyW1YOiS-lUNY0j6DY/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 7</title>
+<urlsolve>https://drive.google.com/file/d/1rOPplnUWpygNpCBXh7OtrtJmRQ2foOss/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 6</title>
+<urlsolve>https://drive.google.com/file/d/1LUTH4EOWECYx26NNLoDuimPYBXKQvmNI/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 5</title>
+<urlsolve>https://drive.google.com/file/d/1dl8DLsc9noKpprDYptF1gc1RB0mdlGk9/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 3</title>
+<urlsolve>https://drive.google.com/file/d/1Nr4687M6gnKVwY5wvWcjRWxIJk8FT5VV/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 2</title>
+<urlsolve>https://drive.google.com/file/d/1UFMaiXQIC1E60cuSiJZ_G4ETIe8YpuXW/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sepahtu (2019) Episod 1</title>
+<urlsolve>https://drive.google.com/file/d/1VmDfiZtzaJs8vueWxtW6YdqdKqpdxOFX/view?usp=sharing</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+

@@ -104,34 +104,26 @@
 <channels>
 
 <channel>
-<name>[COLOR lime][B]Superhero Movies[/B][/COLOR]</name>
+<name>[COLOR lime][B]Kompilasi Sepahtu Reunion[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/01_superheroes.txt</externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/01_Sepah2.txt</externallink>
 <info></info>
 </channel>
 
 <channel>
-<name>[COLOR green][B]Action Movie[/B][/COLOR]</name>
+<name>[COLOR green][B]Kompilasi Filem / Telemovie Melayu[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/02_MalayFilm.txt</externallink>
 <info></info>
 </channel>
 
 <channel>
-<name>[COLOR yellow][B]Malay Movie[/B][/COLOR]</name>
+<name>[COLOR yellow][B]Kompilasi Filem P Ramlee[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR purple][B]P Ramlee Movie[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/03_PRam.txt</externallink>
 <info></info>
 </channel>
 
