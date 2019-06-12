@@ -127,4 +127,13 @@
 <info></info>
 </channel>
 
+<channel>
+<name>Telemovie</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/home_telemovie.txt</externallink>
+<info></info>
+</channel>
+
+
 </channels>

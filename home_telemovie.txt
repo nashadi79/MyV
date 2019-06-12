@@ -1,0 +1,13 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>Curi Curi Cinta</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/04_TM_Curi2Cinta.txt</externallink>
+<info></info>
+</channel>
+
+</channels>
