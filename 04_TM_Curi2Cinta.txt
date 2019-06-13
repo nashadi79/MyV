@@ -42,140 +42,140 @@
 
 <item>
 <title>Curi Curi Cinta Episod 20</title>
-<urlsolve>1hPYMt4nSAWOEAZhCxxZR_7OLyoPStqCr/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1hPYMt4nSAWOEAZhCxxZR_7OLyoPStqCr/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 19</title>
-<urlsolve>11Fh-wSmydNgan7eZysZKA2Xx5uUxVlFy/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/11Fh-wSmydNgan7eZysZKA2Xx5uUxVlFy/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 18</title>
-<urlsolve>1M2YkfMPkDfCsTqyyZH2EAttcMlAFzxgL/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1M2YkfMPkDfCsTqyyZH2EAttcMlAFzxgL/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 17</title>
-<urlsolve>1Le3JScWt0HVSVnYvQfO5TTVzokXUQQEu/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1Le3JScWt0HVSVnYvQfO5TTVzokXUQQEu/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 16</title>
-<urlsolve>1nEZhXEPg69ehEqxPyJwsR1mRZopKNEaN/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1nEZhXEPg69ehEqxPyJwsR1mRZopKNEaN/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 15</title>
-<urlsolve>1IEkurxfXgarC5IRLR74Mq1gk66JRDvmw/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1IEkurxfXgarC5IRLR74Mq1gk66JRDvmw/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 14</title>
-<urlsolve>1QqAhbIWNzzD1BGi5lSUwNXZvqSQ9CoAl/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1QqAhbIWNzzD1BGi5lSUwNXZvqSQ9CoAl/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 13</title>
-<urlsolve>17vwBK9NpX40vmOMxM5AFyY2X9o5-xsVF/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/17vwBK9NpX40vmOMxM5AFyY2X9o5-xsVF/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 12</title>
-<urlsolve>1hHdeukkokWoikMkfoqzunXcswjKlQEAg/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1hHdeukkokWoikMkfoqzunXcswjKlQEAg/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 11</title>
-<urlsolve>1tDIU-kWlAkAGuGLUwgga9Toek2_bmNX_/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1tDIU-kWlAkAGuGLUwgga9Toek2_bmNX_/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 10</title>
-<urlsolve>19ec8rqiEaitkj2KKqJ-YTpV3U3E-3irt/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/19ec8rqiEaitkj2KKqJ-YTpV3U3E-3irt/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 9</title>
-<urlsolve>10IpmpHcIHdWSiOwGlN4DG6pba0tAcJDH/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/10IpmpHcIHdWSiOwGlN4DG6pba0tAcJDH/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 8</title>
-<urlsolve>1P7t4NNwj3Tv7_FaOFHQCd87JpIhVP_Q9/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1P7t4NNwj3Tv7_FaOFHQCd87JpIhVP_Q9/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 7</title>
-<urlsolve>1LFkKI34Iwz4n-HJlv9zMQVQJH0OxCHFK/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1LFkKI34Iwz4n-HJlv9zMQVQJH0OxCHFK/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 6</title>
-<urlsolve>1V2_NjSgBEBEIGjKLXZ6d3sXZkS3V5XRV/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1V2_NjSgBEBEIGjKLXZ6d3sXZkS3V5XRV/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 5</title>
-<urlsolve>1K3OSvZgsKqQgdPSOxeWwwtBrLwRMS26l/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1K3OSvZgsKqQgdPSOxeWwwtBrLwRMS26l/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 4</title>
-<urlsolve>1IYKsrU2JyR1-i9WD-xxKRKTku_Kbgs2x/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1IYKsrU2JyR1-i9WD-xxKRKTku_Kbgs2x/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 3</title>
-<urlsolve>1HoTezP6_Ubc3NgBUTBbk2Ok4IFWxp3r5/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1HoTezP6_Ubc3NgBUTBbk2Ok4IFWxp3r5/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 2</title>
-<urlsolve>1yh8wHayKS4B_1ESI3onvJpwda6uOSGKE/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1yh8wHayKS4B_1ESI3onvJpwda6uOSGKE/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Curi Curi Cinta Episod 1</title>
-<urlsolve>1CSR_bvn-vIKG7a0sScz1Md6dzcLlItwL/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1CSR_bvn-vIKG7a0sScz1Md6dzcLlItwL/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
