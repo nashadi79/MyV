@@ -98,42 +98,42 @@
 
 <item>
 <title>Sepahtu (2019) Episod 1</title>
-<urlsolve>1VmDfiZtzaJs8vueWxtW6YdqdKqpdxOFX/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1VmDfiZtzaJs8vueWxtW6YdqdKqpdxOFX/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Sepahtu Puasa (2018) Episod 4</title>
-<urlsolve>1M8rG0JFbNtZwnKXHWHBUHNK2NeB0Wrtb/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1M8rG0JFbNtZwnKXHWHBUHNK2NeB0Wrtb/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Sepahtu Puasa (2018) Episod 3</title>
-<urlsolve>1KSNze0HE-ZpQdzLA3-Muq6_ED6qN7-et/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1KSNze0HE-ZpQdzLA3-Muq6_ED6qN7-et/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Sepahtu Puasa (2018) Episod 2</title>
-<urlsolve>1VxypqFxZVeDvYCq7OZIrvrdrQ0dD2suJ/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/1VxypqFxZVeDvYCq7OZIrvrdrQ0dD2suJ/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Sepahtu Puasa (2018) Episod 1</title>
-<urlsolve>10Wz8q5pXXZURFmdi9RbaqkybRvlsGGjP/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/10Wz8q5pXXZURFmdi9RbaqkybRvlsGGjP/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Sepahtu Raya 2018</title>
-<urlsolve>11KoBt-xJEmos7DKljYEBVNGz3yxSSMhn/view?usp=sharing</urlsolve>
+<urlsolve>https://drive.google.com/file/d/11KoBt-xJEmos7DKljYEBVNGz3yxSSMhn/view?usp=sharing</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
