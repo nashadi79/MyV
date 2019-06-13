@@ -105,35 +105,34 @@
 
 <channel>
 <name>[COLOR lime][B]Kompilasi Sepahtu Reunion[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.postimg.cc/Kv5VLf9T/sepahtu-thumb.jpg</thumbnail>
+<fanart>https://i.postimg.cc/sgDLJW8N/sepahtu-fanart.png</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/01_Sepah2.txt</externallink>
 <info></info>
 </channel>
 
 <channel>
 <name>[COLOR green][B]Kompilasi Filem / Telemovie Melayu[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.postimg.cc/sDfGffbr/malaymovie-thumb.png</thumbnail>
+<fanart>https://i.postimg.cc/sf4ZRG6m/malaymovie-fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/02_MalayFilm.txt</externallink>
 <info></info>
 </channel>
 
 <channel>
 <name>[COLOR yellow][B]Kompilasi Filem P Ramlee[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.postimg.cc/mkn4GS0h/Pramlee-thumb.jpg</thumbnail>
+<fanart>https://i.postimg.cc/Rhhm8Ypj/Pramlee-fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/03_PRam.txt</externallink>
 <info></info>
 </channel>
 
 <channel>
-<name>Telemovie</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name>[COLOR skyblue][B]Drama[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/1RqJ0Bzt/telemovie-thumb.png</thumbnail>
+<fanart>https://i.postimg.cc/PJYytX7Z/telemovie-fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/home_telemovie.txt</externallink>
 <info></info>
 </channel>
-
 
 </channels>
