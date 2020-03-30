@@ -104,7 +104,7 @@
 <channels>
 
 <channel>
-<name>[COLOR yellow][B] MYFLIX LIST [/B][/COLOR]</name>
+<name>[COLOR lime][B] MyFlix List [/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <item>
