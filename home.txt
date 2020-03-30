@@ -129,6 +129,36 @@
 </channel>
 
 <channel>
+<name>[COLOR red][B] Favorite Show - Youtube [/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>[COLOR lime]I Can See Your Voice Malaysia (Musim 3)[/COLOR] - [COLOR orange]TV9 Malaysia Official[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL03M3gEnnhFYo-auoSVt-JoPexii0WoNZ/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL03M3gEnnhFYo-auoSVt-JoPexii0WoNZ.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCAdpT1exVeNevSfoHbeZ1CQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+<info></info>
+</channel>
+
+
+<channel>
 <name>[COLOR red][B]Kompilasi Sepahtu Reunion[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/Kv5VLf9T/sepahtu-thumb.jpg</thumbnail>
 <fanart>https://i.postimg.cc/sgDLJW8N/sepahtu-fanart.png</fanart>
