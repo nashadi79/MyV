@@ -104,18 +104,35 @@
 <channels>
 
 <channel>
-<name>[COLOR lime][B]Kompilasi Sepahtu Reunion[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/Kv5VLf9T/sepahtu-thumb.jpg</thumbnail>
-<fanart>https://i.postimg.cc/sgDLJW8N/sepahtu-fanart.png</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/01_Sepah2.txt</externallink>
+<name>[COLOR yellow][B] MYFLIX LIST [/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<item>
+<title>[COLOR lime][B] MYFLIX LIST [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UC4sdZrrA9GCies6_W256oNw/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <info></info>
 </channel>
 
 <channel>
-<name>[COLOR green][B]Kompilasi Filem / Telemovie Melayu[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/sDfGffbr/malaymovie-thumb.png</thumbnail>
-<fanart>https://i.postimg.cc/sf4ZRG6m/malaymovie-fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/02_MalayFilm.txt</externallink>
+<name>[COLOR red][B]Kompilasi Sepahtu Reunion[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/Kv5VLf9T/sepahtu-thumb.jpg</thumbnail>
+<fanart>https://i.postimg.cc/sgDLJW8N/sepahtu-fanart.png</fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/01_Sepah2.txt</externallink>
 <info></info>
 </channel>
 
@@ -124,14 +141,6 @@
 <thumbnail>https://i.postimg.cc/mkn4GS0h/Pramlee-thumb.jpg</thumbnail>
 <fanart>https://i.postimg.cc/Rhhm8Ypj/Pramlee-fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/03_PRam.txt</externallink>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR skyblue][B]Drama[/B][/COLOR]</name>
-<thumbnail>https://i.postimg.cc/1RqJ0Bzt/telemovie-thumb.png</thumbnail>
-<fanart>https://i.postimg.cc/PJYytX7Z/telemovie-fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/home_telemovie.txt</externallink>
 <info></info>
 </channel>
 
