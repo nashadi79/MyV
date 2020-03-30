@@ -108,7 +108,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <item>
-<title>[COLOR lime][B] MYFLIX LIST [/B][/COLOR]</title>
+<title>[COLOR orange][B] MYFLIX LIST [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
