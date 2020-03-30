@@ -159,7 +159,7 @@
 
 
 <channel>
-<name>[COLOR red][B]Kompilasi Sepahtu Reunion[/B][/COLOR]</name>
+<name>[COLOR purple][B]Kompilasi Sepahtu Reunion[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/Kv5VLf9T/sepahtu-thumb.jpg</thumbnail>
 <fanart>https://i.postimg.cc/sgDLJW8N/sepahtu-fanart.png</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/01_Sepah2.txt</externallink>
