@@ -180,7 +180,7 @@
 </channel>
 
 <channel>
-<name>[COLOR blue][B]KULIAH AGAMA[/B][/COLOR]</name>
+<name>[COLOR blue][B]Kuliah Agama[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/005_KULIAH.txt</externallink>
