@@ -171,4 +171,20 @@
 <info></info>
 </channel>
 
+<channel>
+<name>[COLOR violet][B]Music Video[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/004_MUSIC.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR blue][B]KULIAH AGAMA[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/005_KULIAH.txt</externallink>
+<info></info>
+</channel>
+
 </channels>

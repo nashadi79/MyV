@@ -1,0 +1,36 @@
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR yellow][B]IKLIM[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=iklim%2Bofficial%2Bmusic%2Bvideo%2Bmv</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR red][B]SLAM[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=slams%2BOfficial%2Bmusic%2Bvideo%2Bmv</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR silver][B]SPRING[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=spring%2Bofficial%2Bmusic%2Bvideo%2Bmv</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR orange][B]WINGS[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=wings%2BOfficial%2Bmusic%2Bvideo%2Bmv</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

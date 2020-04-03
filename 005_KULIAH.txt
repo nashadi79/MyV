@@ -1,0 +1,362 @@
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Abdul Halim Nasir[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BAbdul%2BHalim%2BNasir</jsonrpc>
+<thumbnail>https://image.ibb.co/nkfpFb/Ustaz_Abdul_Halim_Nasir.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Abdullah Khairi[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BAbdullah%2BKhairi</jsonrpc>
+<thumbnail>http://3.bp.blogspot.com/-nj9ubQAxGRo/UuPBqPlFxZI/AAAAAAAAA88/Ta9YUOvgQP4/s1600/ak.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Abdul Somad[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustadz%2Babdul%2Bsomad</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/-nLF0Klt8jQU/VrLvvSSAGSI/AAAAAAAAAAg/jCH6oH_NCwg/s1600/IMG_3219.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Ahmad Dusuki Abd Rani[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BAhmad%2BDusuki</jsonrpc>
+<thumbnail>https://i1.wp.com/www.fatehteam.com/wp-content/uploads/2015/08/Thumb-Web-UAD-01.jpg?resize=300%2C300</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Ahmad Rozini[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Bahmad%2Brozaini</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/2VUmCn5EsaY/maxresdefault.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Ahmad Jailani[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BAhmad%2BJailani</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/psh5KU7NM9w/hqdefault.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Ahmad Rizam Ghazali[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Bahmad%2Brizam%2Bghazali</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/DwtMPzkCIeI/hqdefault.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Mohd Aslam[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BMohd%2BAslam</jsonrpc>
+<thumbnail>https://image.ibb.co/h8Eiab/ustazaslam.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Auni Mohamad[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BAuni%2BMohamad</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/MOykid7e3U8/maxresdefault.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Azhar Idrus[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BAzhar%2BIdrus</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/577877000829816834/_9EvpAnP.jpeg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Badlishah Alaudin[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BBadlishah%2BAlaudin</jsonrpc>
+<thumbnail>http://www.formulamasa.com/wp-content/uploads/2016/01/badlishah-375x400.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Don Daniyal[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Bdon</jsonrpc>
+<thumbnail>https://fuadgenius.files.wordpress.com/2012/04/ustaz-don-daniyal.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Fauzi Thahir[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BFauzi%2BThahir</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/dTN8_b544-U/maxresdefault.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Fawwaz Mat Jan[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BFawwaz</jsonrpc>
+<thumbnail>https://1.bp.blogspot.com/-4h4k0d9g-tM/VwDNugholOI/AAAAAAAAIeM/_N1H7IaNhRQ0wYYf8zLKd4gBGO5XWcAqw/s400/Fawwaz%2BMohd%2BJan.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Habib Khairul Nizam[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BHabib%2BKhairul%2BNizam</jsonrpc>
+<thumbnail>https://image.ibb.co/jnHGTw/Ustaz_Habib_Khairul_Nizam.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Hafizal Abu Hasan[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BHafizal%2BAbu%2BHasan</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/-nkhgIV8M3_A/U7UC6IMwRyI/AAAAAAAAB1M/uhP2jMIBFIA/s1600/Ustaz+Hafizal+Abu+Hassan.png</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Halim Hassan[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BHalim%2BHassan</jsonrpc>
+<thumbnail>https://1.bp.blogspot.com/---ULm8b0UaY/Uo5PLM8xkiI/AAAAAAAAHrY/bIvXWyoVFpI/s400/59154_429831430400091_1067329798_n.png</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Hanafiah Abdul Malek[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BHanafiah%2BAbdul%2BMalek</jsonrpc>
+<thumbnail>http://www.themalaymailonline.com/uploads/articles/2017/2017-03/ustaz_Hanafi_0303.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Hassan Mahmud Al-Hafiz[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BHassan%2BMahmud%2BAl-Hafiz</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/416893528535351296/WADEjjmV_400x400.jpeg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Haslin Baharin[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2Bhaslinbollywood</jsonrpc>
+<thumbnail>http://www.formulamasa.com/wp-content/uploads/2016/01/ustaz-haslin-628x500.png</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Ismail Kamus[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Bismail%2Bkamus</jsonrpc>
+<thumbnail>http://kuliyah.podbean.com/mf/web/b4qqrt/IsmailKamus.png</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Izhar Ariff[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Bizhar%2Bariff%2B2017</jsonrpc>
+<thumbnail>http://4.bp.blogspot.com/-K-h3KMG47D0/UjXcMZc3t-I/AAAAAAAAHgM/bDCr-ODnPD4/s1600/image.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Jafri Abu Bakar[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BJafri%2BAbu%2BBakar</jsonrpc>
+<thumbnail>https://2.bp.blogspot.com/-t6V3fhxYQzs/V0hNF3zhu0I/AAAAAAAAIh0/kaQ98dO99v4vT0_kWmL8dI0HymgG1w1SACLcB/s320/Jafri%2BAbu%2BBakar%2BMahmoodi.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Kazim Elias[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BKazim%2BElias</jsonrpc>
+<thumbnail>http://3.bp.blogspot.com/-z_bHFNUr9Ko/UfVR7kWV4dI/AAAAAAAAcLQ/J7NLm1Y7QDA/s1600/IMG_20130729_011635.JPG</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Lutfi Amir[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Blutfi%2Bamir</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/-ppCd94D_PR8/Uwlu6pX7YzI/AAAAAAAAAVA/DIHKrY1HOQA/s1600/P9180311.JPG</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Mohd Asri Zainul Abidin (Dr. MAZA)[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=dr%2Bmaza</jsonrpc>
+<thumbnail>http://www.mynewshub.cc/wp-content/uploads/2015/03/unnamed.png</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Mohd Elyas Ismail[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BMohd%2BElyas%2BIsmail</jsonrpc>
+<thumbnail>https://static.wixstatic.com/media/4532fb_5c4e68d24ec64edba058dc697fe405f4~mv2_d_3744_5616_s_4_2.png/v1/crop/x_378,y_366,w_2851,h_2448/fill/w_460,h_395,al_c,usm_0.66_1.00_0.01/4532fb_5c4e68d24ec64edba058dc697fe405f4~mv2_d_3744_5616_s_4_2.png</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Mohd Fadli Yusof[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BMohd%2BFadli%2BYusof</jsonrpc>
+<thumbnail>https://aki2004.files.wordpress.com/2014/04/6f54d-dsc_0926small.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Muhd Zainul Asri[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BMuhd%2BZainul%2BAsri</jsonrpc>
+<thumbnail>https://2.bp.blogspot.com/-zlss-oM9s4U/VRazKQi5_TI/AAAAAAAABCs/C2FAA-7V79Y/s1600/SZA2.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Muhamad Abdullah Al Amin[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Bamin</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/-a8rOTWBvUjg/UieB3Ygey_I/AAAAAAAAHbI/QNiKbGoOld8/s1600/941792_576018755782187_2013670363_n.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Nazmi Karim[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BNazmi%2BKarim</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/-mH33BN8dS_0/Ubp2toMAl5I/AAAAAAAABek/VnzTyJ4d3kY/s1600/UNK.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Nazrul Nasir[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Bnazrul%2Bnasir</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/nJuMlRuSV9I/hqdefault.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Shaffi Yusof Ghani[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Bshaffi%2Byusof</jsonrpc>
+<thumbnail>https://image.ibb.co/ccWyOw/ustazshaffiyusuf.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Shamsuri Hj Ahmad[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BShamsuri</jsonrpc>
+<thumbnail>http://3.bp.blogspot.com/-ImP0ohZV98E/TrIpSitsZZI/AAAAAAAABng/DVSz2WjOAHE/s1600/Shamsuri-Ahmad-mymaktabaty.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Shahul Hamid[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BShahul%2BHamid</jsonrpc>
+<thumbnail>https://1.bp.blogspot.com/-FBVgl4bp2OE/UP6z76xpdoI/AAAAAAAAGlY/wKtrQLz6Ik0/s400/543941_377964745633969_837270708_n.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Syed Norhisyam Al-Idrus[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BSyed%2BNorhisyam%2BAl-Idrus</jsonrpc>
+<thumbnail>http://1.bp.blogspot.com/-rQ51ZDc8RAw/UKypdBdVrcI/AAAAAAAAASs/mOvmmwK1A50/s1600/15.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Syamsul Amri Ismail (Ustaz Syamsul Debat)[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BSyamsul%2BDebat</jsonrpc>
+<thumbnail>https://lh3.googleusercontent.com/VUJ3EP40TQPVtVoYUWgkoW3NoVMLKPklsyGu9RgfRaEiq_RhJNs77fFNi3Jk9ARMzPU=w300</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Wadi Annuar Ayub[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=Ustaz%2BWadi%2BAnnuar%2BAyub</jsonrpc>
+<thumbnail>https://lh3.googleusercontent.com/5JGNMcJoS0fYT7zccOiX8VgjjqoTso7xEq-SZT4PtsdpigYuse5oNAqj2m6r0Pwwi-A=w300</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Wan Hizam[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Bwan%2Bhizam</jsonrpc>
+<thumbnail>https://2.bp.blogspot.com/-_GPvwvLkpAk/WUoGHarg4II/AAAAAAAAIB0/Z8PUKoo3W7I3uiiVlhecO8XHuKCF0utcQCLcBGAs/s640/ustaz%2Bwan%2Bhizam.jpg</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR purple]•|•|•|•|[COLOR lightyellow][B]Ustaz Zaharuddin Abdul Rahman[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=ustaz%2Bzaharuddin%2Babd%2Brahman</jsonrpc>
+<thumbnail>http://alnaqiy.com/rs2016/wp-content/uploads/2016/03/zahruddin.png</thumbnail>
+<fanart>https://image.ibb.co/dygA06/fanart.jpg</fanart>
+</item>
+
+
+
