@@ -30,7 +30,7 @@
 <title>[COLOR purple]•|•|•|•|[COLOR orange][B]WINGS[/B][/COLOR]|•|•|•|•[/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/search/?q=wings%2BOfficial%2Bmusic%2Bvideo%2Bmv</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=wings%2BOfficial%2Bmusic%2Bvideo%2Bmv%2Bmalaysia</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
