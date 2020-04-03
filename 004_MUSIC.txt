@@ -12,7 +12,7 @@
 <title>[COLOR purple]•|•|•|•|[COLOR red][B]SLAM[/B][/COLOR]|•|•|•|•[/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/search/?q=slams%2BOfficial%2Bmusic%2Bvideo%2Bmv</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=slam%2BOfficial%2Bmusic%2Bvideo%2Bmv%2Bmvm</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -21,7 +21,7 @@
 <title>[COLOR purple]•|•|•|•|[COLOR silver][B]SPRING[/B][/COLOR]|•|•|•|•[/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/search/?q=spring%2Bofficial%2Bmusic%2Bvideo%2Bmv</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=spring%2Bofficial%2Bmusic%2Bvideo%2Bmv%2Bmalay</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -30,7 +30,7 @@
 <title>[COLOR purple]•|•|•|•|[COLOR orange][B]WINGS[/B][/COLOR]|•|•|•|•[/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/search/?q=wings%2BOfficial%2Bmusic%2Bvideo%2Bmv%2Bmalaysia</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/search/?q=wings%2BOfficial%2Bmusic%2Bvideo%2Bmv%2Bmalay%2Dbts</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
