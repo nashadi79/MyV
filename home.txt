@@ -104,11 +104,12 @@
 <channels>
 
 <channel>
-<name>[COLOR lime][B] MyFlix List [/B][/COLOR]</name>
+<name>[COLOR lime][B] MyFlix Favourite PlayList [/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
+
 <item>
-<title>[COLOR orange][B] MYFLIX LIST [/B][/COLOR]</title>
+<title>[COLOR orange][B] MyFlix Playlist [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -125,41 +126,37 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<info></info>
-</channel>
 
-<channel>
-<name>[COLOR red][B] Favorite Show - Youtube [/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<items>
-
-<item>
-<title>[COLOR lime]I Can See Your Voice Malaysia (Musim 3)[/COLOR] - [COLOR orange]TV9 Malaysia Official[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
-   <link>IgnoreMe</link>
-   <jsonrpc>plugin://plugin.video.youtube/playlist/PL03M3gEnnhFYo-auoSVt-JoPexii0WoNZ/</jsonrpc>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[playlist\?list=PL03M3gEnnhFYo-auoSVt-JoPexii0WoNZ.*?>(.*?)<]]></expres>
-<page>https://www.youtube.com/channel/UCAdpT1exVeNevSfoHbeZ1CQ/playlists</page>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-</items>
 <info></info>
 </channel>
 
 
 <channel>
-<name>[COLOR purple][B]Kompilasi Sepahtu Reunion[/B][/COLOR]</name>
+<name>[COLOR purple][B] Favourite Youtube Channel[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/001_YTCHANNEL.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR red][B]TV Show[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/002_TVSHOW.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR green][B]Drama[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/003_DRAMA.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR silver][B]Kompilasi Sepahtu Reunion[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/Kv5VLf9T/sepahtu-thumb.jpg</thumbnail>
 <fanart>https://i.postimg.cc/sgDLJW8N/sepahtu-fanart.png</fanart>
 <externallink>https://raw.githubusercontent.com/nashadi79/MyV/master/01_Sepah2.txt</externallink>

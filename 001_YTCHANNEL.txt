@@ -1,0 +1,113 @@
+<item>
+<title>[COLOR violet][B]TV9 MALAYSIA OFFICIAL[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCAdpT1exVeNevSfoHbeZ1CQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]TV3 MALAYSIA OFFICIAL[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCCduNupcztaN9sFrHV-fDIg/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]DRAMA SANGAT OFFICIAL[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCv5bMX0RoQU9jaPT8Ru-cQQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR silver][B]KINI TV OFFICIAL[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UC9ULnkwvyofZ_sWrzRpyvrg/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]MELETOP OFFICIAL[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCW4r6r93JlGcdxRkgVbCzRg/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ASTRO CERIA OFFICIAL[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UC-ayAWMY0fxyE62CW7boFsQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,57 @@
+<item>
+<title>[COLOR lime]I Can See Your Voice Malaysia (Musim 3)[/COLOR] - [COLOR orange]TV9 Malaysia Official[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL03M3gEnnhFYo-auoSVt-JoPexii0WoNZ/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL03M3gEnnhFYo-auoSVt-JoPexii0WoNZ.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCAdpT1exVeNevSfoHbeZ1CQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green]I Can See Your Voice Malaysia (Musim 2)[/COLOR] - [COLOR yellow]TV9 Malaysia Official[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL03M3gEnnhFaAGC9SCMWbkz6tWynKeJql/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL03M3gEnnhFaAGC9SCMWbkz6tWynKeJql.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCAdpT1exVeNevSfoHbeZ1CQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR violet]I Can See Your Voice Malaysia (Musim 1)[/COLOR] - [COLOR skyblue]TV9 Malaysia Official[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PL03M3gEnnhFaP__291k1OUv_UzqLlIw6Q/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PL03M3gEnnhFaP__291k1OUv_UzqLlIw6Q.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCAdpT1exVeNevSfoHbeZ1CQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+

@@ -1,0 +1,57 @@
+<item>
+<title>[COLOR yellow]Rindu Yang Terindah[/COLOR] - [COLOR red]Drama Sangat Official[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLOtmJlhKUvPknAsh4sDCwlgRCj_Wp-ad9/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLOtmJlhKUvPknAsh4sDCwlgRCj_Wp-ad9.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCv5bMX0RoQU9jaPT8Ru-cQQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]Seindah 7 Warna Pelangi[/COLOR] - [COLOR lime]Drama Sangat Official[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLOtmJlhKUvPmWQbWRogJcmShKFJDwBRvl/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLOtmJlhKUvPmWQbWRogJcmShKFJDwBRvl.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCv5bMX0RoQU9jaPT8Ru-cQQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]Budak Tebing[/COLOR] - [COLOR green]Drama Sangat Official[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lime][B] [makelist.param1][/B][/COLOR]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/PLOtmJlhKUvPk-A2Wz9VxzQeoR7MDBzCPf/</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=PLOtmJlhKUvPk-A2Wz9VxzQeoR7MDBzCPf.*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/channel/UCv5bMX0RoQU9jaPT8Ru-cQQ/playlists</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
